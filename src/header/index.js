@@ -45,18 +45,18 @@ const Headermain = () => {
                       className="my-3"
                     >
                       {" "}
-                      Portfolio
+                      Projects
                     </Link>
                   </li>
                   <li className="menu_item">
                     <Link onClick={handleToggle} to="/about" className="my-3">
-                      About
+                      About & Skills
                     </Link>
                   </li>
                   <li className="menu_item">
                     <Link onClick={handleToggle} to="/contact" className="my-3">
                       {" "}
-                      Contact
+                      Say Hello
                     </Link>
                   </li>
                 </ul>

@@ -9,12 +9,12 @@ const introdata = {
   title: "Hi, I'm Zenia.",
   animated: {
     first: "Full-Stack Developer",
-    second: "I code cool websites",
-    third: "I love coding",
+    second: "Charlottesville, VA",
+    // third: "I love coding",
   },
   description:
     "A determined professional with a background in military intelligence and a newfound passion for software development",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  your_img_url: "https://i.postimg.cc/W3w2Xwjm/temp-Image-Sb-Tevp.jpg",
 };
 
 const dataabout = {
@@ -44,25 +44,26 @@ const skills = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://i.postimg.cc/HnmrLLWz/temp-Image-Jf-Hh-Qd.jpg",
+    description: "Project coming soon.",
+    link: "#",
+  },
+  {
+    img: "https://i.postimg.cc/Y961RZhX/temp-Image-S3-IGXE.jpg",
     description:
-      "Takes the ordinary and transforms it into a pig-tastic linguistic adventure. ",
-    link: "#",
+      "Takes the ordinary and transforms it into a pig-tastic linguistic adventure. Built using React.js ",
+    link: "https://igpay-atinlay.onrender.com",
   },
+
   {
-    img: "https://picsum.photos/400/?grayscale",
-    description: "A short game racing to find the Christmas culprit.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description: "A short game racing to find the Christmas culprit.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://i.postimg.cc/pTR9WTLZ/temp-Image-BSFDUo.jpg",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "A short game racing to find the Christmas culprit. Built using React.js",
+    link: "#",
+  },
+  {
+    img: "https://i.postimg.cc/HnmrLLWz/temp-Image-Jf-Hh-Qd.jpg",
+    description: "Project coming soon.",
     link: "#",
   },
 ];
