@@ -14,7 +14,8 @@ const introdata = {
   },
   description:
     "A determined professional with a background in military intelligence and a newfound passion for software development",
-  your_img_url: "https://i.postimg.cc/W3w2Xwjm/temp-Image-Sb-Tevp.jpg",
+  // your_img_url: "https://i.postimg.cc/BQdgnF5W/temp-Imagebpbl4-A.jpg",
+  your_img_url: "https://i.postimg.cc/g0ZzvfQt/temp-Image-Elqh0-M.jpg",
 };
 
 const dataabout = {
@@ -38,7 +39,7 @@ const skills = [
   {
     title: "General",
     description:
-      "Version Control, Git/Github, PGAdmin, VSCode, Yarn, Bootstrap, Active TS/SCI Clearance",
+      "Version Control, Git/Github, PGAdmin, VSCode, Yarn, Bootstrap",
   },
 ];
 
@@ -49,14 +50,14 @@ const dataportfolio = [
     link: "#",
   },
   {
-    img: "https://i.postimg.cc/Y961RZhX/temp-Image-S3-IGXE.jpg",
+    img: "https://i.postimg.cc/X7hzPb3n/temp-Image-UY6htr.jpg",
     description:
       "Takes the ordinary and transforms it into a pig-tastic linguistic adventure. Built using React.js ",
     link: "https://igpay-atinlay.onrender.com",
   },
 
   {
-    img: "https://i.postimg.cc/pTR9WTLZ/temp-Image-BSFDUo.jpg",
+    img: "https://i.postimg.cc/v8x9zFPr/temp-Image-MMNWAq.jpg",
     description:
       "A short game racing to find the Christmas culprit. Built using React.js",
     link: "#",
@@ -71,8 +72,9 @@ const dataportfolio = [
 const contactConfig = {
   YOUR_EMAIL: "zvarela8@gmail.com",
   YOUR_FONE: "(619)852-8795",
+
   description:
-    "If you're looking for a passionate and driven software developer who's not afraid to tackle complex problems, connect with me on LinkedIn or send me an email, let's chat!",
+    "If you're looking for a passionate and driven software developer who's not afraid to tackle complex problems, connect with me on LinkedIn or send me an email, let's chat! Feel free to also book a meeting with me. ",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_syfuwgk",
