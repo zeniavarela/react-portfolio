@@ -14,8 +14,8 @@ const introdata = {
   },
   description:
     "A determined professional with a background in military intelligence and a newfound passion for software development",
-  // your_img_url: "https://i.postimg.cc/BQdgnF5W/temp-Imagebpbl4-A.jpg",
-  your_img_url: "https://i.postimg.cc/g0ZzvfQt/temp-Image-Elqh0-M.jpg",
+
+  // your_img_url: "https://i.postimg.cc/g0ZzvfQt/temp-Image-Elqh0-M.jpg",
 };
 
 const dataabout = {
@@ -59,7 +59,7 @@ const dataportfolio = [
   {
     img: "https://i.postimg.cc/v8x9zFPr/temp-Image-MMNWAq.jpg",
     description:
-      "A short game racing to find the Christmas culprit. Built using React.js",
+      "Coming soon. A short game racing to find the Christmas culprit. Built using React.js.",
     link: "#",
   },
   {

@@ -81,14 +81,14 @@ section {
 }
 
 .intro_sec .text h1 {
-    font-size: 25px;
+    font-size: 35px;
     margin-bottom: 20px;
     font-weight: 600;
 }
 
 .intro_sec .text h3 {
-    font-size: 16px;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: 600;
 }
 
 .intro_sec .h_bg-image {
