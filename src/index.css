@@ -11,7 +11,7 @@
 
 [data-theme="light"] {
     --bg-color: #3f3f3f;
-    --primary-color: #404040;
+    --primary-color: #3f3f3f;;
     --secondary-color: #000000;
     --text-color: #000000;
     --text-color-2: #000000;
@@ -42,7 +42,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     padding-top: 60px;
-    border-left: 80px solid var(--primary-color);
+    border-left: 190px solid var(--primary-color);
     border-right: 130px solid var(--primary-color);
 }
 

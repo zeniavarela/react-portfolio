@@ -1,9 +1,9 @@
-const logotext = "ZENIA VARELA";
+const logotext = "ZENIA VARELA"
 const meta = {
   title: "Zenia Varela",
   description:
     "Hi, I'm Zenia. data scientist _ Full stack devloper,currently working in Berlin",
-};
+}
 
 const introdata = {
   title: "Hi, I'm Zenia.",
@@ -16,13 +16,13 @@ const introdata = {
     "A determined professional with a background in military intelligence and a newfound passion for software development",
 
   // your_img_url: "https://i.postimg.cc/g0ZzvfQt/temp-Image-Elqh0-M.jpg",
-};
+}
 
 const dataabout = {
   title: "My Story",
   aboutme:
     " I come from a background in military intelligence where I honed skills in problem-solving, attention to detail, and collaboration. My work helped safeguard national security and contributed to the success of various military missions.  My transition into web development stems from a deep-seated curiosity about creating solutions and making a meaningful impact especially in the context of secure systems and the role technology plays in defending against cyber threats. In the military, I learned the importance of adaptability and quick thinking, skills I've translated into coding. As I navigate my transition, my WHY is clear—I want to leverage my skills to build innovative and secure user-friendly applications that contribute positively to people's lives.",
-};
+}
 const skills = [
   {
     title: "Languages",
@@ -41,13 +41,13 @@ const skills = [
     description:
       "Version Control, Git/Github, PGAdmin, VSCode, Yarn, Bootstrap",
   },
-];
+]
 
 const dataportfolio = [
   {
-    img: "https://i.postimg.cc/HnmrLLWz/temp-Image-Jf-Hh-Qd.jpg",
-    description: "Project coming soon.",
-    link: "#",
+    img: "https://i.postimg.cc/g0FTJxvB/temp-Imageb-KFmq-F.jpg",
+    description: "React weather app using openweathermap.org API.",
+    link: "https://weather-app-react-p48c.onrender.com",
   },
   {
     img: "https://i.postimg.cc/X7hzPb3n/temp-Image-UY6htr.jpg",
@@ -57,17 +57,17 @@ const dataportfolio = [
   },
 
   {
-    img: "https://i.postimg.cc/v8x9zFPr/temp-Image-MMNWAq.jpg",
+    img: "https://i.postimg.cc/zXdbxHzb/temp-Imagei-Uig-Bf.jpg",
     description:
-      "Coming soon. A short game racing to find the Christmas culprit. Built using React.js.",
-    link: "#",
+      "A treasure hunt style game racing to find the Christmas culprit! Built using React.js.",
+    link: "https://treasure-hunt-react.onrender.com",
   },
   {
     img: "https://i.postimg.cc/HnmrLLWz/temp-Image-Jf-Hh-Qd.jpg",
     description: "Project coming soon.",
     link: "#",
   },
-];
+]
 
 const contactConfig = {
   YOUR_EMAIL: "zvarela8@gmail.com",
@@ -80,12 +80,12 @@ const contactConfig = {
   YOUR_SERVICE_ID: "service_syfuwgk",
   YOUR_TEMPLATE_ID: "template_z5aif3l",
   YOUR_USER_ID: "eyNeNbWqx6Jf21MFO",
-};
+}
 
 const socialprofils = {
   github: "https://github.com/zeniavarela",
   linkedin: "https://linkedin.com/in/zeniavarela",
-};
+}
 export {
   meta,
   dataabout,
@@ -95,4 +95,4 @@ export {
   contactConfig,
   socialprofils,
   logotext,
-};
+}
