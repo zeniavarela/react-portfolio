@@ -26,7 +26,7 @@ const dataabout = {
 const skills = [
   {
     title: "Languages",
-    description: "HTML, CSS, Javascript, React, Ruby, PostgreSQL",
+    description: "HTML, CSS, Tailwind, Javascript, Typescript, React, Ruby",
   },
   {
     title: "Frameworks",
@@ -39,23 +39,21 @@ const skills = [
   {
     title: "General",
     description:
-      "Version Control, Git/Github, PGAdmin, VSCode, Yarn, Bootstrap",
+      "Version Control, Git/Github, Bitbucket, Courier, PostgreSQL, MySQL, VSCode",
   },
 ]
 
 const dataportfolio = [
   {
+    img: "https://i.postimg.cc/s2HMhcJq/temp-Image-Xh-YRPi.jpg",
+    description: "Project coming soon.",
+    link: "#",
+  },
+  {
     img: "https://i.postimg.cc/g0FTJxvB/temp-Imageb-KFmq-F.jpg",
     description: "React weather app using openweathermap.org API.",
     link: "https://weather-app-react-p48c.onrender.com",
   },
-  {
-    img: "https://i.postimg.cc/X7hzPb3n/temp-Image-UY6htr.jpg",
-    description:
-      "Takes the ordinary and transforms it into a pig-tastic linguistic adventure. Built using React.js ",
-    link: "https://igpay-atinlay.onrender.com",
-  },
-
   {
     img: "https://i.postimg.cc/zXdbxHzb/temp-Imagei-Uig-Bf.jpg",
     description:
@@ -63,9 +61,10 @@ const dataportfolio = [
     link: "https://treasure-hunt-react.onrender.com",
   },
   {
-    img: "https://i.postimg.cc/HnmrLLWz/temp-Image-Jf-Hh-Qd.jpg",
-    description: "Project coming soon.",
-    link: "#",
+    img: "https://i.postimg.cc/X7hzPb3n/temp-Image-UY6htr.jpg",
+    description:
+      "Takes the ordinary and transforms it into a pig-tastic linguistic adventure. Built using React.js ",
+    link: "https://igpay-atinlay.onrender.com",
   },
 ]
 
